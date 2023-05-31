@@ -1,0 +1,4 @@
+tests/payload/*.mht text eol=crlf
+tests/payload/**/*.html text eol=lf
+*.py text eol=lf
+*.md text eol=lf
